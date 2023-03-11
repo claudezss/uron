@@ -1,0 +1,3 @@
+include uron/VERSION
+include requirements.txt
+recursive-include uron py.typed
